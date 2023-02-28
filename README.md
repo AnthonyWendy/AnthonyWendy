@@ -17,6 +17,7 @@ My name is Anthony and i'm on way to become a fullstack developer. I'm a technol
 ![React.js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-ED8B00?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 
 <div align="center">
     <img
