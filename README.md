@@ -3,7 +3,7 @@
 # Hi, welcome my profile
 
 
-My name is Anthony and i'm on way to becoming a fullstack programmer. I am a technology enthusiast, especially when it comes to A.I., and for anime, because every developer is a nerd inside.
+My name is Anthony and i'm on way to become a fullstack developer. I'm a technology enthusiast, especially when it comes to A.I., and for anime, because every developer is a nerd inside.
 
 #
 
