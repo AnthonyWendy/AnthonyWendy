@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b8185&height=120&section=header"/>
 
-# Hi, welcome my profile
+# Hi, welcome to my profile
 
 
 My name is Anthony and i'm on way to become a fullstack developer. I'm a technology enthusiast, especially when it comes to A.I., and for anime, because every developer is a nerd inside.
