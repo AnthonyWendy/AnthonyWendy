@@ -9,7 +9,7 @@ My name is Anthony and i'm on way to become a fullstack developer. I'm a technol
 
 <div align="center"> 
     <h3>How to find me</h3>
-<a href="https://www.linkedin.com/in/anthony-wendy-antunes-de-lima-03776a1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anthony-wendy-03776a1aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href = "mailto:anthonywendyantunesdelima@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
  
